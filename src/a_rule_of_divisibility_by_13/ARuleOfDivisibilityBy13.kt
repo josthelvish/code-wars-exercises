@@ -31,7 +31,7 @@ import kotlin.test.assertEquals
 
 fun thirt(n: Long): Long {
     var powerOf = 0
-    val base: Double = 10.0
+    val base = 10.0
     var value = n
     var result = 0L
 
